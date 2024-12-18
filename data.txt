@@ -1,0 +1,21 @@
+Task "Buy groceries" has been added to the list.
+Task "Study for final" has been added to the list.
+Task "Take my dog to the vet" has been added to the list.
+
+#    Status          Description
+1     incomplete      Buy groceries
+2     incomplete      Study for final
+3     incomplete      Take my dog to the vet
+
+Task 1 has been marked as complete.
+
+#    Status          Description
+1     complete        Buy groceries
+2     incomplete      Study for final
+3     incomplete      Take my dog to the vet
+
+Task "Take my dog to the vet" has been deleted.
+
+#    Status          Description
+1     complete        Buy groceries
+2     incomplete      Study for final
